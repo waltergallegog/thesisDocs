@@ -1,0 +1,39 @@
+CNN visual recog
+clasification
+applications like pdi
+
+the aim is portable devices
+
+cnn a lot of multi -> we need to minimize energy -> use low power techniques
+
+new dedicated architecture is required
+already several works
+
+for example, an array of mac lets say 100 and they have to do all the multiplications (billions)
+problems:
+- where to store image
+- how to move data from main memory to array
+all focused on minimize energy
+
+
+basically matrix convolution and store
+
+on the MIT slides example, register inside each cell is latch
+
+a lot of data and operations, then use:
+approximative computing
+data compression
+
+Singapore and Polito collaboration
+real project with a lot of future
+state of the art problem
+very research oriented - possibility of publish
+
+28 nm very cutting edge and the best for portable devices, from STmicroelectronics, 
+
+there is already an starting point, very basic and stupid array
+in top of it, some optimization
+at hw level
+at sw level
+
+my job: on the HW matrix

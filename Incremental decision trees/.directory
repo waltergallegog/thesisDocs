@@ -1,10 +1,10 @@
 [Desktop Entry]
-Icon=folder-bookmarks
+Icon=folder-toaster
 
 [Dolphin]
-HeaderColumnWidths=545,60,88,60
+HeaderColumnWidths=677,60,88,60
 SortRole=date
-Timestamp=2018,1,10,17,37,17
+Timestamp=2018,1,11,1,25,31
 Version=3
 ViewMode=1
 VisibleRoles=Details_text,Details_size,Details_date,Details_tags,CustomizedDetails
